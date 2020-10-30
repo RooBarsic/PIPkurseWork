@@ -1,4 +1,5 @@
-# Space Scouts, is a multi-player online shooter based on the game Mass Effect. Was developed during studying web-programming and DBMS courses at the university.
+# Space Scouts
+**is a multi-player online shooter based on the game Mass Effect. Was developed during studying web-programming and DBMS courses at the university.**
 
 - Designed database and added indexes to some tables to achieve high query performance.
 - Implemented OAuth 2.0 to make possible - registration using social media accounts.
